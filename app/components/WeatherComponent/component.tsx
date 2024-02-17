@@ -104,6 +104,8 @@ const Weather = () => {
             onChange={handleCityChange}
           >
             {/* TR */}
+            <option value="Ambala">Ambala</option>
+            <option value="Agra">Agra</option>
             <option value="Istanbul">Istanbul</option>
             <option value="Ankara">Ankara</option>
             <option value="Izmir">Izmir</option>
