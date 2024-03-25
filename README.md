@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 1) First, clone the repo using:
 ```bash
-git clone https://github.com/1999matrix/weather-app-pype.git
+https://github.com/1999matrix/weather-app-next.git
 ```
 2) For installing dependencies , run :
 ```bash
